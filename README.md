@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello everyone 👋
 
+Hello my name is arthur petroli.
+I am 19 years old and i study computer engineering at UTFPR.
 <!--
 **arthurpetroli/arthurpetroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
