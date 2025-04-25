@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 
 Hello my name is Arthur Petroli.
-I am 21 years old and i study computer engineering at UTFPR.
+I am 22 years old and i study computer engineering at UTFPR.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-petroli-351013144/)
